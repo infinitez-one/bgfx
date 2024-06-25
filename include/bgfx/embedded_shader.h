@@ -54,6 +54,7 @@
 	|| BX_PLATFORM_LINUX                \
 	|| BX_PLATFORM_WINDOWS              \
 	|| BX_PLATFORM_OSX                  \
+	|| BX_PLATFORM_NX                   \
 	)
 
 #if BGFX_PLATFORM_SUPPORTS_DXBC
